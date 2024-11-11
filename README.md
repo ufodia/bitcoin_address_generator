@@ -64,6 +64,6 @@ Utilizes Blockchain.info APIs for fetching address balances.
 ## Donate
 Support this project by sending Bitcoin donations to the address below:
 
-**BTC Address: 1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1**
+**BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
 
 Thank you for your support!
