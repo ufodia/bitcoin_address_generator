@@ -67,3 +67,13 @@ Support this project by sending Bitcoin donations to the address below:
 **BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
 
 Thank you for your support!
+
+```
+
+## Support this project
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ufodia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
